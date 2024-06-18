@@ -1,0 +1,1 @@
+(()=>{"use strict";window.location="profile.html"})();
